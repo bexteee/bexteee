@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Vitor 👋
 
-<!--
-**bexteee/bexteee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an international student-athlete at Augustana University (South Dakota), majoring in Computer Science and competing as a swimmer, working toward a career in AI software engineering.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- `daily-diet-agent` — a Python AI agent using the Anthropic SDK, connected to my own Flask API via tool use
+- `daily-diet-api` — a Flask + SQLAlchemy REST API
+- Sharpening data structures & algorithms alongside my AI/ML learning track
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I use:**
+Python, C#, SQL, Flask, SQLAlchemy, REST APIs, Anthropic API, Git/GitHub
+
+**Reach me:**
+- LinkedIn: linkedin.com/in/vitor-sa-
+- Email: vitorsa0602@gmail.com
+
