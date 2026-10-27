@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor 👋
 
-I'm an international student-athlete at Augustana University (South Dakota), majoring in Computer Science and competing as a swimmer, working toward a career in AI software engineering.
+I'm an international student-athlete at Augustana University (South Dakota), majoring in Computer Science and competing as a swimmer, working toward a career in AI engineering.
 
 **Currently working on:**
 - `daily-diet-agent` — a Python AI agent using the Anthropic SDK, connected to my own Flask API via tool use
